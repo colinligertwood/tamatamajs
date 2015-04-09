@@ -1,0 +1,38 @@
+{
+  "name": "tamatama",
+  "version": "1.0.7",
+  "description": "Javascript OpenERP client library based on Walky distributed objects protocol.",
+  "author": "Aki Mimoto <aki-npm@bako.ca>",
+  "main": "tamatama",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amimoto/tamatamajs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amimoto/tamatamajs/issues"
+  },
+  "keywords": [
+    "tamatama"
+  ],
+  "prefetchGlobal": true,
+  "private": false,
+  "analyze": true,
+  "license": "GPL",
+  "homepage": "https://github.com/amimoto/tamatamajs",
+  "files": [
+    "tamatama.js"
+  ],
+  "directories": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": [
+    "walky"
+  ],
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.1",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0"
+  }
+}
