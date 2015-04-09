@@ -1,6 +1,6 @@
 {
   "name": "tamatama",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Javascript OpenERP client library based on Walky distributed objects protocol.",
   "author": "Aki Mimoto <aki-npm@bako.ca>",
   "main": "tamatama",
@@ -20,7 +20,7 @@
   "license": "GPL",
   "homepage": "https://github.com/amimoto/tamatamajs",
   "files": [
-    "tamatama.js"
+    "index.js"
   ],
   "directories": {},
   "scripts": {
